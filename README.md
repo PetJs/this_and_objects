@@ -1,4 +1,4 @@
-# Features of the Console App
+# Features of the Console App From You Dont't Know JS - this and Objects 
 
 ## Class with `this` and Prototypes:
 - Demonstrates how to use `this` to create dynamic properties and methods.
@@ -16,3 +16,17 @@
 
 ## Prototype Chain Exploration:
 - Traverses and logs the prototype chain of an object.
+
+
+## Installation
+Clone the repository and navigate to the project directory:
+```sh
+git clone https://github.com/PetJs/this_and_objects.git
+cd thisAndObjects
+```
+
+## Usage
+Run the script using Node.js:
+```sh
+node thisAndObjects.js
+```
